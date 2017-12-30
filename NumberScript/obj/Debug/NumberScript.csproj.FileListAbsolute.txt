@@ -1,0 +1,6 @@
+d:\users10\asus\documents\visual studio 2015\Projects\NumberScript\NumberScript\bin\Debug\NumberScript.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\NumberScript\NumberScript\bin\Debug\NumberScript.exe
+d:\users10\asus\documents\visual studio 2015\Projects\NumberScript\NumberScript\bin\Debug\NumberScript.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\NumberScript\NumberScript\obj\Debug\NumberScript.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\NumberScript\NumberScript\obj\Debug\NumberScript.exe
+d:\users10\asus\documents\visual studio 2015\Projects\NumberScript\NumberScript\obj\Debug\NumberScript.pdb
